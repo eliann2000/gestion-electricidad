@@ -30,7 +30,7 @@ export default function App() {
         <aside className="sidebar">
           <div className="sidebarHeader">
             <h2>Sistema</h2>
-            <small>Gestión MogettaG</small>
+            <small>Gestión Electricidad</small>
 
             {usuario && (
               <div style={{ marginTop: 10, color: "var(--muted)", fontSize: 12 }}>
